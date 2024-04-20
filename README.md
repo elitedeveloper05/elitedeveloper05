@@ -1,7 +1,7 @@
 <h1 align="center">Hi Devs👋, I'm Sidharth Varma</h1>
 <h3 align="center">Living the Binary life!! 0's and 1's and everything in between</h3>
 
-- 🔭 I’m currently working on [skill-swap-network](https://github.com/Skill-Swap-Network/SkillSwap-Essentials)
+- 🔭 I’m currently working on **ShareEstate**
 
 - 🌱 I’m currently learning **DJANGO and MONGODB**
 
